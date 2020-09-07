@@ -9,6 +9,7 @@ class Trainer:
         print('Start training..')
         sleep(2)
         print('Stop training.')
+        print('Deploy model')
 
 if __name__ == '__main__':
     Trainer().run()
