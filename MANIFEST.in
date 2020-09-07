@@ -1,0 +1,3 @@
+graft lekuto
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  lekuto/jupy *
