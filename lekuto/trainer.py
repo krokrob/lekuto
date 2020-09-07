@@ -7,6 +7,7 @@ class Trainer:
     def run(self):
         print('Collecting data...')
         print('Drop missing values.')
+        print('Standardization')
         print('Start training..')
         sleep(2)
         print('Stop training.')
